@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Shadhin</h1>
+<h1 align="center">Hi 👋, I'm Shadhin <div align="left"> <img src="https://komarev.com/ghpvc/?username=md-shadhin&label=Profile%20views&color=0e75b6&style=flat" alt="md-shadhin" /> </div> </h1>
+
 <h3 align="center">Interested in Artificial Intelligence & Software Development.</h3>
+
+
 
 - 📄 Know about my experiences [https://shadhinkhan.github.io/resume/](https://shadhinkhan.github.io/resume/)
 
